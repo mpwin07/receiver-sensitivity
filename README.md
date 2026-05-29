@@ -1,4 +1,3 @@
-# Receiver-Sensitivity
 # Optical Receiver Sensitivity Analysis
 
 ## Objective
@@ -62,10 +61,8 @@ Steps:
 ---
 
 ## Report
-Your report should include:
-- Pre-lab calculations (attach handwritten work if applicable).  
-- Screenshots or displays of simulation results:  
-  - Power readings  
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/1c92a8be-a3f2-45c0-a7b5-ffe58a39104f" />
+
   - BER analyzer output  
   - Eye diagram  
 - Discussion of differences between analytical and simulation results.  
